@@ -1,0 +1,19 @@
+{
+  "name": "live-news-channel",
+  "version": "1.0.0",
+  "description": "Live news channel with WebRTC, YouTube search, and live text updates",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "0.0.1-security",
+    "socket.io": "^4.7.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
